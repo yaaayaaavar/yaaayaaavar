@@ -1,4 +1,4 @@
-# 👋 Namaskar, I'm Naman Dubey
+# 🙏🏻 Namaskar, I'm Naman Dubey
 
 Aspiring **AI Architect** and **ML Engineer** passionate about building end-to-end AI solutions for real-world impact. With hands-on experience in startups like **NYX** and **MonoSpace**, I specialize in developing scalable ML pipelines, GenAI-driven systems, and cloud-native applications. My work focuses on leveraging **Python**, **FastAPI**, **Docker**, and models like **Stable Diffusion 3.5**, **Claude**, and **GPT-4o** to solve complex challenges in marketing optimization, computer vision, and fraud detection.
 
