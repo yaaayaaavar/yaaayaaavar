@@ -72,10 +72,7 @@ Currently pursuing a **B.Tech in AI & ML** at **I.K. Gujral Punjab Technical Uni
 ## 📫 Connect with Me
 - **LinkedIn**: [linkedin.com/in/naman-dubey](#) *(Update with your actual LinkedIn URL)*
 - **Email**: [your.email@example.com](#) *(Update with your actual email)*
-- **Portfolio**: [your-portfolio.com](#) *(Add if applicable)*
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaaayaaavar&show_icons=true&theme=radical)
 
 *Let's build the future of AI together!*
