@@ -65,13 +65,13 @@ Currently pursuing a **B.Tech in AI & ML** at **I.K. Gujral Punjab Technical Uni
 
 ## 🌟 Involvement
 - **Senior Division Cadet, NCC** (2022–2025): Led cultural events like **Balidaan 2024**, fostering leadership and teamwork.
-- Organized **Combined Annual Training Camps**, enhancing skills in emergency response and decision-making.
+- Attended **Combined Annual Training Camps**, enhancing skills in emergency response and decision-making.
 
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn**: [linkedin.com/in/naman-dubey](#) *(Update with your actual LinkedIn URL)*
-- **Email**: [your.email@example.com](#) *(Update with your actual email)*
+- **LinkedIn**: [https://www.linkedin.com/in/naman-d-529465248/](#) 
+- **Email**: [namandubey0001@gmail.com](#) 
 
 ---
 
