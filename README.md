@@ -55,7 +55,7 @@ My core interest lies in the **Marketing & Content Generation** domain—buildin
 
 ## Education
 * **B.Tech in AI & ML**, I.K. Gujral Punjab Technical University (2026)
-* **Minor in AI**, IIT Ropar (2024) – Focus on Advanced Transformers & Reinforcement Learning.
+* **Minor in AI**, IIT Ropar (2025) – Focus on Advanced Transformers & Reinforcement Learning.
 
 ---
 
