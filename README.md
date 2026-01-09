@@ -1,4 +1,4 @@
-# 🙏🏻 Namaskar, I'm Naman Dubey
+# Namaskar, I'm Naman Dubey
 **AI Developer | Solution Builder | Problem Solver**
 
 I am a software engineer who builds systems to solve complex, real-world problems. I don't just write code; **I architect solutions**. My work spans **Generative AI**, **Agentic Systems**, and **Marketing Technology**, bridging the gap between deep-tech research and scalable production engineering.
@@ -7,7 +7,7 @@ My core interest lies in the **Marketing & Content Generation** domain—buildin
 
 ---
 
-## 🧠 Core Competencies
+## Core Competencies
 * **Agentic AI:** Architecting Multi-Agent Systems (LangGraph) that plan, execute, and reason.
 * **Generative Media:** Building deterministic pipelines for Image (Stable Diffusion) and Audio (CLAP/LDM) generation.
 * **Systems Engineering:** Deploying models via FastAPI, Docker, and Kubernetes for low-latency inference.
@@ -15,7 +15,7 @@ My core interest lies in the **Marketing & Content Generation** domain—buildin
 
 ---
 
-## 🚀 Current Research & Development (The "Big 3")
+## Current Research & Development (The "Big 3")
 *These projects are currently in active research and development phases.*
 
 ### **Janta (Research Phase)**
@@ -40,7 +40,7 @@ My core interest lies in the **Marketing & Content Generation** domain—buildin
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **AI Developer Intern @ NYX AI** (Apr 2025 – Sep 2025)
 * **Architecture:** Designed Multi-Agent Systems using **LangGraph** to orchestrate GPT-4o and Claude for automated marketing workflows.
@@ -53,13 +53,13 @@ My core interest lies in the **Marketing & Content Generation** domain—buildin
 
 ---
 
-## 🎓 Education
+## Education
 * **B.Tech in AI & ML**, I.K. Gujral Punjab Technical University (2026)
 * **Minor in AI**, IIT Ropar (2024) – Focus on Advanced Transformers & Reinforcement Learning.
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
@@ -70,7 +70,7 @@ My core interest lies in the **Marketing & Content Generation** domain—buildin
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 * **LinkedIn:** [linkedin.com/in/naman-d-529465248/](https://www.linkedin.com/in/naman-d-529465248/)
 * **Email:** [namandubey0001@gmail.com](mailto:namandubey0001@gmail.com)
 
