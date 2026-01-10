@@ -71,7 +71,7 @@ My core interest lies in bringing AI Automation in the **Marketing & Content Gen
 ---
 
 ## 📩 Let's Connect
-* **LinkedIn:** [linkedin.com/in/naman-d-529465248/](https://www.linkedin.com/in/naman-d-529465248/)
+* **LinkedIn:** [linkedin.com/in/yaaayaaavar/](https://www.linkedin.com/in/yaaayaaavar/)
 * **Email:** [namandubey0001@gmail.com](mailto:namandubey0001@gmail.com) / [24102470@scale.iitrpr.ac.in](mailto:24102470@scale.iitrpr.ac.in)
 
 *Building systems that think, create, and solve.*
